@@ -24,7 +24,7 @@
 
 ### 🏁 시작 화면
 스페이스바 **`Space`** 클릭 시 게임이 시작됩니다.  
-<img width="809" height="462" alt="게임 시작 화면" src="https://github.com/user-attachments/assets/85a0c829-8b1f-4528-af9a-68c0d379a812" />
+<img width="500" height="300" alt="게임 시작 화면" src="https://github.com/user-attachments/assets/85a0c829-8b1f-4528-af9a-68c0d379a812" />
 
 ---
 
