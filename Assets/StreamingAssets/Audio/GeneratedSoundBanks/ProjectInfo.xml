@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="runcatfinal" GUID="{960F46EA-23B2-403E-8025-257186AFAAFA}" Generator="2023.1.14.8770"/>
+	<CacheRoot>../../../../../Documents/WwiseProjects/runcatfinal/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Windows" GUID="{63EF387E-695A-4BEC-B1F0-26CC16B3795A}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../Documents/WwiseProjects/runcatfinal/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{38668934-1FD2-45F5-AA53-03B4E1F2B7B5}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{2A19BE43-C0FC-4850-32A6-73D02BD9B60D}</FileHash>
+</ProjectInfo>
